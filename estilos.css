@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Merriweather&family=Pacifico&family=Roboto+Mono:wght@200&family=Roboto:wght@300&display=swap');
+body {
+    background-color: white; 
+    color: black;
+    font-size: 24 px;
+}
+
+h1 {
+    color: purple;
+    font-variant: small-caps ;
+    text-decoration: underline;
+}
+
+h2 {
+    color: pink;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.fonte-1 {
+    font-family: Lobster;
+}
+
+.fonte-2 {
+    font-family: Merriweather;
+}
+
+.fonte-3 {
+    font-family: Pacifico;
+}
+
+.fonte-4 {
+    font-family: Roboto;
+}
+
+.fonte-5 {
+    font-family: Roboto Mono;
+}
